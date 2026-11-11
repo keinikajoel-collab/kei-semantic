@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" role="img" aria-label="Blue car being washed with soap bubbles">
+  <rect width="480" height="270" fill="#12365a"/>
+  <path d="M70 170 L110 120 H250 L310 120 L380 170 Q410 175 410 200 V215 H70 Z" fill="#19c3d6"/>
+  <path d="M125 128 H240 V168 H100 Z M255 128 H300 L345 168 H255 Z" fill="#dff7fa"/>
+  <circle cx="140" cy="215" r="30" fill="#061018"/><circle cx="140" cy="215" r="13" fill="#9fc3d3"/>
+  <circle cx="340" cy="215" r="30" fill="#061018"/><circle cx="340" cy="215" r="13" fill="#9fc3d3"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="3">
+    <circle cx="90" cy="90" r="18"/><circle cx="150" cy="60" r="10"/><circle cx="330" cy="70" r="22"/><circle cx="400" cy="110" r="12"/><circle cx="260" cy="50" r="8"/>
+  </g>
+</svg>
